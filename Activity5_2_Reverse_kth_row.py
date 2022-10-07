@@ -4,6 +4,6 @@ print("Original list :" , str(test_list))
 
 k = 3
 
-res = [ele[::-1]if(idx+1)%k=0 else ele in enumerate(test_list)]
+res = [ele[::-1]if(idx+1)%k==0 else ele in enumerate(test_list)]
 
 print("After reversing kth row : " + str(res))
