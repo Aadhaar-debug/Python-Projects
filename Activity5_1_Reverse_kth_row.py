@@ -6,10 +6,10 @@ k = 3
 
 res = []
 
-for idx , ele in element (test_list):
+for idx , ele in enumerate(test_list):
   if(idx+1)%k == 0:
     res.append(list(reversed(ele)))
   else:
     res.append(ele)
-  
+
 print("After reversing kth row : " + str(res))
