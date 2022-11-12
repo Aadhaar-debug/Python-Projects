@@ -5,5 +5,6 @@ The program is a simple Modular Employee management system made in python that c
 4. Objects
 5. Instances
 
-Execution : Run the program by xecuting the main.py file
+Execution : Run the program by xecuting the main.py file .
+
 Note : The Program is not Completely finished . The Updated version of the program will be uploaded as soon as any advancements are made to the project .
