@@ -1,0 +1,7 @@
+ant
+cat
+dog
+hen
+horse
+loin
+zebra
