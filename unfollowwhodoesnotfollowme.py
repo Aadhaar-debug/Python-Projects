@@ -2,8 +2,8 @@ from instagrapi import Client
 import time
 
 # Your Instagram credentials
-USERNAME = "aadhaarkoul"
-PASSWORD = "Allisfareinloveandwar@01"
+USERNAME = "Username"
+PASSWORD = "Password"
 
 SESSION_FILE = "session.json"  # File to store session dataye
 def login_to_instagram():
